@@ -25,5 +25,5 @@ To adhere to the school's honor code, [the work I share](/MSBA/index.md) will be
 ## Favorites
 Some of my favorite stuff that I've seen.
 
--[Jupyter NoteBook](GitHub.ipynb)
--[MatPlotLib Fundamentals]
+-[Jupyter NoteBook (ipynb)](GitHub.ipynb) I will eventually tinker around with
+-[MatPlotLib Fundamentals (html)](BasicGraphAssignment.html) created by Dr. James Bradley of William & Mary
