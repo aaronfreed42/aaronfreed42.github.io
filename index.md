@@ -28,3 +28,5 @@ Some of my favorite stuff that I've seen.
 -[Jupyter NoteBook (ipynb)](GitHub.ipynb) I will eventually tinker around with.
 
 -[MatPlotLib Fundamentals (html)](BasicGraphAssignment.html) created by Dr. James Bradley of William & Mary.
+
+-[GitHub Repository](https://github.com/aaronfreed42/msba/tree/main) for future collaborations in my MSBA. Or not? We'll see!
