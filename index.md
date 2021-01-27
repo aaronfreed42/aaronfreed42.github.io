@@ -23,4 +23,7 @@ To adhere to the school's honor code, [the work I share](/MSBA/index.md) will be
 [Every good coder has their own pet projects.](/personal/index.md)
 
 ## Favorites
+Some of my favorite stuff that I've seen.
 
+-[Jupyter NoteBook](GitHub.ipynb)
+-[MatPlotLib Fundamentals]
