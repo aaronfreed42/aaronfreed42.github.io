@@ -4,17 +4,14 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+# Welcome
 
-There should be whitespace between paragraphs.
+Though I am relatively new and inexperienced when it comes to coding, I have over a decade of experience in the US Army understanding and developing solutions to problems faced by an organization. In addition, I have several years of experience specifically in applying data analytics to that problem solving process to reach data-driven decisions and conclusions.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## My Projects
+Presently I work as an analyst for [McKesson Medical-Surgical](https://mms.mckesson.com/), working in support of the operations teams that provide medical supplies to skilled nursing facilities, outpatient centers, and clinics around the US. 
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
+What McKesson work I can share publicly is [here](/mckesson/index.md)
 
 > This is a blockquote following a header.
 >
