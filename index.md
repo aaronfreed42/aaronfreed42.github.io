@@ -10,7 +10,7 @@ Though I am relatively new and inexperienced when it comes to coding, I have ove
 
 Presently, I work as an analyst for [McKesson Medical-Surgical](https://mms.mckesson.com/), working in support of the operations teams that provide medical supplies to skilled nursing facilities, outpatient centers, and clinics around the US. 
 
-What McKesson work I can share publicly is [here](/mckesson/index.md)
+What McKesson work I can share publicly is [here](/mckesson/index.md).
 
 ### College of William & Mary MSBA
 
@@ -25,6 +25,6 @@ To adhere to the school's honor code, [the work I share](/MSBA/index.md) will be
 ## Favorites
 Some of my favorite stuff that I've seen.
 
--[Jupyter NoteBook (ipynb)](GitHub.ipynb) I will eventually tinker around with
+-[Jupyter NoteBook (ipynb)](GitHub.ipynb) I will eventually tinker around with.
 
--[MatPlotLib Fundamentals (html)](BasicGraphAssignment.html) created by Dr. James Bradley of William & Mary
+-[MatPlotLib Fundamentals (html)](BasicGraphAssignment.html) created by Dr. James Bradley of William & Mary.
